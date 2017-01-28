@@ -7,8 +7,8 @@
     <ProjectGuid>{9AD2CEE7-8102-48A0-9105-BC1020A223BC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KPI_ML</RootNamespace>
-    <AssemblyName>KPI-ML</AssemblyName>
+    <RootNamespace>KPI_ML.NET</RootNamespace>
+    <AssemblyName>KPI-ML.NET</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
