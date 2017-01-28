@@ -1,0 +1,6 @@
+language: csharp
+solution: KPI-ML.NET.sln
+install:
+  - nuget restore KPI-ML.NET.sln
+script:
+  - xbuild /p:Configuration=Release KPI-ML.NET.sln

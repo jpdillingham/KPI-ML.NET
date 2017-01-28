@@ -1,5 +1,10 @@
 # KPI-ML.NET
 
+[![Build status](https://ci.appveyor.com/api/projects/status/8eu9bn3ov8xch375?svg=true)](https://ci.appveyor.com/project/jpdillingham/kpi-ml-net)
+[![Build Status](https://travis-ci.org/jpdillingham/KPI-ML.NET.svg?branch=master)](https://travis-ci.org/jpdillingham/KPI-ML.NET)
+[![NuGet version](https://img.shields.io/nuget/v/KPI-ML.NET.svg)](https://www.nuget.org/packages/KPI-ML.NET/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jpdillingham/KPI-ML.NET/blob/master/LICENSE)
+
 A .NET Class Library containing an implementation of the MESA International standard KPI-ML.
 
 Generated with the Microsoft (R) Xml Schemas/DataTypes support utility (xsd.exe) from the KPI-ML V01 schema available from the MESA website [here](https://services.mesa.org/ResourceLibrary/ShowResource/8c814090-51b7-476c-8e64-3d0b3ae7ced2).
