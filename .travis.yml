@@ -1,4 +1,7 @@
 language: csharp
+os:
+  - linux
+  - osx
 solution: KPI-ML.NET.sln
 install:
   - nuget restore KPI-ML.NET.sln
